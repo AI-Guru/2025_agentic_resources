@@ -1,5 +1,7 @@
 # 2025 Agentic Resources
 
+![banner.png](banner.png)
+
 A repository about LLM-Powered Agentic Workflows and Agents. Mainly a collection of learning resources.
 
 ## n8n
